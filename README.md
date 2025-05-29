@@ -10,7 +10,7 @@ Online platforms like Reddit play a vital role in mental health support by offer
 - Who are the most active support providers?
 - How is support distributed across users?
 
-The study combines **Natural Language Processing**, **emotion modeling**, and **network analysis** to uncover insights into digital empathy and peer support mechanisms.
+The study combines **Natural Language Processing**, **Emotion modeling**, and **Network analysis** to uncover insights into digital empathy and peer support mechanisms.
 
 ## 📊 Dataset
 
